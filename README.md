@@ -18,3 +18,5 @@ It analyzes Amazon customer reviews, extracts meaningful features, and predicts 
 - Accuracy: 94%  
 - Weighted F1 Score: 0.94  
 
+# Dataset
+- Link(https://drive.google.com/drive/folders/1zwYEwkep0hWeQtVabKkLZiGstAFUnxjt?usp=sharing)
